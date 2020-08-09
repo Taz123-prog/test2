@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(129, 114, 228);
+    text-align: center;
+    color: purple;
+    font-style: initial;
+    font-size: medium;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+.nav{
+    font-size: x-large;
+    line-height: 10cm;
+}
+
+
+.green{
+    color: green;
+    background: black;
+}
+
+.greentext{
+    line-height: 0.7cm;
+}
+
+.blue{
+    color: blue;
+    background-color: black;
+}
+
+.bluetext{
+line-height: 1.5cm;
+}
+
+.red{
+    color: red;
+    background-color: black;
+}
+
+.redtext{
+    line-height: 1.3cm;
+}
+
+.h3{
+    line-height: 10cm;
+}
+
+.polish{
+    background-color: grey;
+    color: black;
+}
+
+.polishtext{
+    line-height: 0.7cm;
+}
+
+.ref{
+    line-height: 2cm;
+}
